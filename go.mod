@@ -1,4 +1,4 @@
-module github.com/gokcehan/lf
+module github.com/mdrolet01/lf
 
 go 1.12
 
